@@ -45,3 +45,13 @@ pre {
 	border: 1px dashed tomato;
 	background-color: #f5f5f5;
 }
+
+.ctverecek__btn {
+	margin-top: 5px;
+	width: 148px;
+	padding: 10px 15px;
+}
+
+.ctverecek__btn:hover {
+	background-color: yellowgreen;
+}

@@ -19,3 +19,11 @@ function secti(a, b) {
 function upozorni() {
   alert("Gratulace, právě jsi spustila tuto funkci!");
 }
+
+
+function barva() {
+  let ctverecek;
+  ctverecek = document.querySelector('.ctverecek');
+  ctverecek.style.backgroundColor = "green";
+}
+
